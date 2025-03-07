@@ -30,7 +30,7 @@ The dataset contains "customer details" such as age, job, education, financial b
 | `poutcome`   | Outcome of the previous marketing campaign |
 
 
-🛠️#  Technologies Used
+# 🛠️Technologies Used
 - Python 🐍  
 - Pandas (Data Handling)  
 - Matplotlib & Seaborn (Data Visualization)  
