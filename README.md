@@ -1,10 +1,10 @@
 #      T-test
 
-# 📊 Bank Customer Data Analysis :-
+#  Bank Customer Data Analysis :-
 
 This project analyzes "customer demographics and financial details" to understand patterns in "banking, loans, and marketing campaigns". 
 
-## 📌 Dataset Overview :-
+## Dataset Overview :-
 The dataset contains "customer details" such as age, job, education, financial balance, and marketing interactions.
 
 # Dataset Description:-
@@ -30,8 +30,8 @@ The dataset contains "customer details" such as age, job, education, financial b
 | `poutcome`   | Outcome of the previous marketing campaign |
 
 
-# 🛠️Technologies Used
-- Python 🐍  
+# Technologies Used
+- Python 
 - Pandas (Data Handling)  
 - Matplotlib & Seaborn (Data Visualization)  
 - SciPy & Statsmodels (Statistical Analysis)  
